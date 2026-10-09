@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Filtro de Corridas</string>
+    <string name="service_desc">Lê apenas a tela de ofertas do app Uber Driver e mostra um selo ACEITAR / MÉDIA / RECUSAR. Não toca na tela e não envia dados para fora do celular.</string>
+</resources>
